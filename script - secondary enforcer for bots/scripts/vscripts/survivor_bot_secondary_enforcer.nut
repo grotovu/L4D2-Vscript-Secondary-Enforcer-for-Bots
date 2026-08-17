@@ -2,12 +2,12 @@ printl("--- INITIALIZING BOT-ONLY SECONDARY WEAPON ENFORCER ---");
 
 // Default Settings (Will be overwritten by config file)
 ::WE_Settings <- {
-    model_nick = "weapon_pistol"
+    model_nick = "pistol"
     model_rochelle = "electric_guitar"
     model_coach = "tonfa"
     model_ellis = "baseball_bat"
     
-    model_bill = "weapon_pistol" 
+    model_bill = "pistol" 
     model_zoey = "baseball_bat"
     model_francis = "tonfa"
     model_louis = "electric_guitar"
@@ -23,7 +23,7 @@ printl("--- INITIALIZING BOT-ONLY SECONDARY WEAPON ENFORCER ---");
 {
     local content = "// Survivor Bot Secondary Weapon Configuration\n";
     content += "// Format: key weapon_name\n";
-    content += "// Set to 'weapon_pistol' to allow bots to keep default guns.\n\n";
+    content += "// Set to 'pistol' to allow bots to keep default guns.\n\n";
     
     foreach (key, value in ::WE_Settings)
     {

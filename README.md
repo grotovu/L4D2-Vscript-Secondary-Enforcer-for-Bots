@@ -30,14 +30,14 @@ This script ensures that whenever a bot spawns, they automatically receive their
 ```
 // Survivor Bot Secondary Weapon Configuration
 // Format: key weapon_name
-// Set to 'weapon_pistol' to allow bots to keep default guns.
+// Set to 'pistol' to allow bots to keep default guns.
 
 interval 3.0
-model_nick weapon_pistol
+model_nick pistol
 model_rochelle electric_guitar
 model_coach tonfa
 model_ellis baseball_bat
-model_bill weapon_pistol
+model_bill pistol
 model_zoey baseball_bat
 model_francis tonfa
 model_louis electric_guitar
