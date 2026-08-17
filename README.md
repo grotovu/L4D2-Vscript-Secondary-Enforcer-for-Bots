@@ -4,6 +4,8 @@ An automated VScript for **Left 4 Dead 2** that forces Survivor Bots to carry cu
 
 Includes automatic file-based configuration, map-specific weapon blacklisting, and safety checks to prevent breaking bot animations or game states.
 
+For the human player version: https://github.com/grotovu/L4D2-Vscript-Secondary-Enforcer-for-Players
+
 ## Motivation & Use Case
 
 I frequently play with custom survivor and weapon skins. For aesthetic and thematic reasons, I want each character to start every map holding their signature weapon.
