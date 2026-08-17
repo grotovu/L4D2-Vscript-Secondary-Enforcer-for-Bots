@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+addonSteamAppID    550
+addontitle "Survivor Bot Secondary Enforcer"
+addonVersion       "1.0" 
+addonAuthor        "EagleRaviOrange"
+addonDescription   "If the survivor bot has default pistols on spawn or when chainsaw ran out of fuel, change it to character specific ones. Mostly RP."
+}
